@@ -1,4 +1,4 @@
-f<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=buritbest123.buritbest123" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=buritbest123.buritbest123" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=70B227&width=435&lines=Hi+There!+%F0%9F%91%8B+++My+name+is+Best+%F0%9F%92%BB%E2%9C%A8" />
