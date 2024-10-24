@@ -80,6 +80,6 @@
 8. ☁️ Cloud Computing (AWS): https://drive.google.com/drive/folders/1OBxHBwnDEUEzb-cXlULm_rLIIwMQwTtE?usp=sharing
 9. 🎬 Stop Motion (Animation): https://www.youtube.com/watch?v=6p_6ml_0-ZY
 10. ☕ Starbucks (Odoo): https://drive.google.com/drive/folders/1OgkH-_6HnUs1TBDHB_VDOZ9CCvUDyFX8
-11. 🕹️ Civiltà Contadina (2D Games With Scratch): https://scratch.mit.edu/projects/602177591
+11. 🕹️ Civiltà Contadina (2D Games With Scratch): https://github.com/buritbest123/Civilt-Contadina
 
 <hr/>
