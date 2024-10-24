@@ -69,7 +69,7 @@
 <h2 align="center">🚀 Projects Developed by My Team and Me 🚀</h2>
 
 1. 🧪 Uno (Software Testing): https://github.com/buritbest123/Uno-Software-Testing
-2. 🌐 BestBranch-Gemini-OCS-Project (Web application): https://github.com/buritbest123/BestBranch-Gemini-OCS-Project
+2. 🌐 Gemini-OCS-Project (Web application): https://github.com/buritbest123/BestBranch-Gemini-OCS-Project
 3. 📱 MUICT Connect (Mobile Application): https://github.com/ThitiwutBoss03/ITCS424_Project_018_025_079_215
 4. 💼 Job Center System (Dynamic Website): https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg
 5. 🔍 AnimeSearchEngine (ElasticSearch): https://github.com/ThitiwutBoss03/AnimeSearchEngine_Via_ElasticSearch
