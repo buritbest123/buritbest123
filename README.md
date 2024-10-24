@@ -71,13 +71,13 @@
 1. 🧪 Uno (Software Testing): https://github.com/buritbest123/Uno-Software-Testing
 2. 🌐 Gemini-OCS-Project (Web application): https://github.com/buritbest123/BestBranch-Gemini-OCS-Project
 3. 📱 MUICT Connect (Mobile Application): https://github.com/ThitiwutBoss03/ITCS424_Project_018_025_079_215
-4. 💼 Job Center System (Dynamic Website): https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg
+4. 💼 Job Center System (Dynamic Website): https://github.com/buritbest123/JobCenterSystem-DynamicWebApp
 5. 🔍 AnimeSearchEngine (ElasticSearch): https://github.com/ThitiwutBoss03/AnimeSearchEngine_Via_ElasticSearch
 6. ☕ Starbucks (Odoo): https://drive.google.com/drive/folders/1OgkH-_6HnUs1TBDHB_VDOZ9CCvUDyFX8
 7. 🎮 PsyLife (Product: Video game): https://drive.google.com/drive/folders/1G4hg3locIUj2Sulw3fUkq95zO1x_PLzo?usp=sharing
 8. ☁️ Cloud Computing (AWS): https://drive.google.com/drive/folders/1OBxHBwnDEUEzb-cXlULm_rLIIwMQwTtE?usp=sharing
 9. 🎬 Stop Motion (Animation): https://www.youtube.com/watch?v=6p_6ml_0-ZY
-10. 📺 Netflix (Database): https://drive.google.com/drive/folders/1l5R5mSr4PmBLWXH8KZjiQSMJJBm_byUl
+10. 📺 Netflix (Database): https://github.com/buritbest123/Netflix-Database-MySQL
 11. 🕹️ Civiltà Contadina (2D Games With Scratch): https://scratch.mit.edu/projects/602177591
 
 <hr/>
