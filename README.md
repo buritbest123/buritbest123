@@ -62,10 +62,22 @@
 <div align="center">
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buritbest123&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="top langs" />
 </div>
-
-<br/><br/>
+<br/>
 
 <hr/>
 
-<br/>
-<br/>
+<h2 align="center">🚀 Projects Developed by My Team and Me 🚀</h2>
+
+1. 🧪 Uno (Software Testing): https://github.com/buritbest123/Uno-Software-Testing
+2. 🌐 BestBranch-Gemini-OCS-Project (Web application): https://github.com/buritbest123/BestBranch-Gemini-OCS-Project
+3. 📱 MUICT Connect (Mobile Application): https://github.com/ThitiwutBoss03/ITCS424_Project_018_025_079_215
+4. 💼 Job Center System (Dynamic Website): https://drive.google.com/drive/folders/1HXDesnBZfgYwrbwXxbATHheWEBIaYUsg
+5. 🔍 AnimeSearchEngine (ElasticSearch): https://github.com/ThitiwutBoss03/AnimeSearchEngine_Via_ElasticSearch
+6. ☕ Starbucks (Odoo): https://drive.google.com/drive/folders/1OgkH-_6HnUs1TBDHB_VDOZ9CCvUDyFX8
+7. 🎮 PsyLife (Product: Video game): https://drive.google.com/drive/folders/1G4hg3locIUj2Sulw3fUkq95zO1x_PLzo?usp=sharing
+8. ☁️ Cloud Computing (AWS): https://drive.google.com/drive/folders/1OBxHBwnDEUEzb-cXlULm_rLIIwMQwTtE?usp=sharing
+9. 🎬 Stop Motion (Animation): https://www.youtube.com/watch?v=6p_6ml_0-ZY
+10. 📺 Netflix (Database): https://drive.google.com/drive/folders/1l5R5mSr4PmBLWXH8KZjiQSMJJBm_byUl
+11. 🕹️ Civiltà Contadina (2D Games With Scratch): https://scratch.mit.edu/projects/602177591
+
+<hr/>
