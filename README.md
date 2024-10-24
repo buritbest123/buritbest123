@@ -20,6 +20,8 @@
  
  🧮 Fun fact: I can **calculate numbers fast without using a calculator!**
 
+ ⚡ **One life, live it!** - Fred Rogers
+
  </div>
  
 <div align="center"> 
