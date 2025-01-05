@@ -38,7 +38,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages and Tools (Tech Stack ) ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,docker,nodejs,mongodb,spring,mysql,express,kubernetes,elasticsearch,figma,firebase,flutter,bootstrap" /><br>
